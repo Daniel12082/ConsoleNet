@@ -1,0 +1,14 @@
+C:\Users\APM02-042\Desktop\consoleNet\inicio\bin\Debug\net7.0\inicio.exe
+C:\Users\APM02-042\Desktop\consoleNet\inicio\bin\Debug\net7.0\inicio.deps.json
+C:\Users\APM02-042\Desktop\consoleNet\inicio\bin\Debug\net7.0\inicio.runtimeconfig.json
+C:\Users\APM02-042\Desktop\consoleNet\inicio\bin\Debug\net7.0\inicio.dll
+C:\Users\APM02-042\Desktop\consoleNet\inicio\bin\Debug\net7.0\inicio.pdb
+C:\Users\APM02-042\Desktop\consoleNet\inicio\obj\Debug\net7.0\inicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\APM02-042\Desktop\consoleNet\inicio\obj\Debug\net7.0\inicio.AssemblyInfoInputs.cache
+C:\Users\APM02-042\Desktop\consoleNet\inicio\obj\Debug\net7.0\inicio.AssemblyInfo.cs
+C:\Users\APM02-042\Desktop\consoleNet\inicio\obj\Debug\net7.0\inicio.csproj.CoreCompileInputs.cache
+C:\Users\APM02-042\Desktop\consoleNet\inicio\obj\Debug\net7.0\inicio.dll
+C:\Users\APM02-042\Desktop\consoleNet\inicio\obj\Debug\net7.0\refint\inicio.dll
+C:\Users\APM02-042\Desktop\consoleNet\inicio\obj\Debug\net7.0\inicio.pdb
+C:\Users\APM02-042\Desktop\consoleNet\inicio\obj\Debug\net7.0\inicio.genruntimeconfig.cache
+C:\Users\APM02-042\Desktop\consoleNet\inicio\obj\Debug\net7.0\ref\inicio.dll
